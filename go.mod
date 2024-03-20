@@ -1,3 +1,3 @@
-module github.com/weaseldotro/go-openai
+module github.com/elliot14A/go-openai
 
 go 1.22.1

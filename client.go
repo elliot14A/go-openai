@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strings"
 
-	utils "github.com/weaseldotro/go-openai/internal"
+	utils "github.com/elliot14A/go-openai/internal"
 )
 
 // Client is OpenAI GPT-3 API client.

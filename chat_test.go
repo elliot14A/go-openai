@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/weaseldotro/go-openai"
-	"github.com/weaseldotro/go-openai/internal/test/checks"
-	"github.com/weaseldotro/go-openai/jsonschema"
+	"github.com/elliot14A/go-openai"
+	"github.com/elliot14A/go-openai/internal/test/checks"
+	"github.com/elliot14A/go-openai/jsonschema"
 )
 
 const (
